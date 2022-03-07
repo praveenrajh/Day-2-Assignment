@@ -1,0 +1,12 @@
+Day 2
+Assignment 3
+
+typeof(1)            //Number
+typeof(1.1)          //Number
+typeof('1.1')        //String
+typeof(true)         //Bollean
+typeof(null)         //Object
+typeof(undefined)    //undefined
+typeof([])           //Object
+typeof({})           //Object
+typeof(NaN)          //Number
